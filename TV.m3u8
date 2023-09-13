@@ -380,9 +380,6 @@ https://strm.yandex.ru/kal/utv/utv0.m3u8
 #EXTINF:0,Сарафан
 #EXTGRP:Развлекательные
 https://tbs01-edge11.itdc.ge/sarafan/tracks-v1a1/mono.m3u8
-#EXTINF:0,E TV
-#EXTGRP:Развлекательные
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:0,Кулинар ТВ
 #EXTGRP:Развлекательные
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
@@ -392,9 +389,6 @@ http://31.148.48.15:80/Kuhnya_TV/index.m3u8
 #EXTINF:0,Еда
 #EXTGRP:Развлекательные
 http://ecvltpac.akciatv.ru/iptv/GVHGZKS8W74N5M/6009/index.m3u8
-#EXTINF:0,FoodTime
-#EXTGRP:Развлекательные
-http://31.134.132.245:8080/eda_hd/index.m3u8
 #EXTINF:0,Food Network
 #EXTGRP:Развлекательные
 http://ott-cdn.ucom.am/s18/04.m3u8
@@ -410,9 +404,6 @@ https://livetv.mylifeisgood.net.ru/channels/anekdot.m3u8
 #EXTINF:0,Shopping Live
 #EXTGRP:Развлекательные
 http://188.143.128.24:30000/play/a26/index.m3u8
-#EXTINF:0,Ювелирочка
-#EXTGRP:Развлекательные
-http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:0,Luxury HD
 #EXTGRP:Развлекательные
 http://146.158.0.56:80/Luxury/index.m3u8
