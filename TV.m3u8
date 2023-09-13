@@ -281,12 +281,6 @@ http://109.200.135.130:8080/football3_hd/index.m3u8
 #EXTINF:0,Матч! Футбол 3 HD
 #EXTGRP:Спортивные
 http://bl.uma.media/live/126865/HLS/6866944_3/2/1/playlist.m3u8
-#EXTINF:0,Setanta Sports 1
-#EXTGRP:Спортивные
-https://kinescope.io/203407881/master.m3u8
-#EXTINF:0,Setanta Sports 2
-#EXTGRP:Спортивные
-https://tv.movielab.pro/943/video.m3u8
 #EXTINF:0,Беларусь 5 HD
 #EXTGRP:Спортивные
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
