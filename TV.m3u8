@@ -182,6 +182,21 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:0,Крым 24
 #EXTGRP:Новости
 https://live24.trkcrimea.ru/24tvcrimea.m3u8
+#EXTINF:-1 ,МАТЧ ПРЕМЬЕР
+#EXTGRP:Спортивные
+http://193.33.88.172/nash-football/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МАТЧ ПРЕМЬЕР HD
+#EXTGRP:Спортивные
+http://193.33.88.172/nash_football_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Матч Премьер HD
+#EXTGRP:Спортивные
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+#EXTINF:-1 ,Матч Премьер
+#EXTGRP:Спортивные
+http://bl.uma.media/live/126866/HLS/6866944_2/2/1/playlist.m3u8
+#EXTINF:-1 ,Матч Премьер HD
+#EXTGRP:Спортивные
+https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8t
 #EXTINF:0,Удар
 #EXTGRP:Спортивные
 https://strm.yandex.ru/kal/udar/udar0.m3u8
