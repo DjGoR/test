@@ -506,9 +506,12 @@ https://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:0,History
 #EXTGRP:Познавательные
 http://91.233.215.250:7272/PK41HvJyzlbR8XZ
+#EXTINF:0,History2 HD
+#EXTGRP:Познавательные
+https://cdn.ch03.spr24.net:4443/205/tracks-v1a1/mono.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:0,History2
 #EXTGRP:Познавательные
-https://ip1.ontivi.net:1443/224/index.m3u8?wmsAuthSign=1694663467p561i481i712i26S821d77a108e6cb2229e29b4842ea538c
+https://ip1.ontivi.net:1443/224/index.m3u8?wmsAuthSign=1694735052p561i481i712i26S4c72cb9aa67d2f09c7f990157905341c
 #EXTINF:0,Наука 2.0
 #EXTGRP:Познавательные
 https://tbs01-edge11.itdc.ge/nayka/tracks-v1a1/mono.m3u8
