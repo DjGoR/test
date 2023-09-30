@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,Первый канал HD
-#EXTGRP:Эфирные
-http://109.200.135.130:8080/ort_hd/index.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP:Эфирные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
