@@ -1,0 +1,110 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Первый HD
+http://moobl.ru/hls/1_tv_hd.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General",Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Неизвестная Россия HD
+http://moobl.ru/hls/Neizvestnaya_Rossiya_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Россия 1
+https://dvr-player.smotrim.ru/hls2/russia_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Россия 1
+https://dvr-player.smotrim.ru/live/smil:rhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="General",Россия 1 HD (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Россия HD
+http://moobl.ru/hls/Russia_1_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Россия 24
+http://moobl.ru/hls/Russia_24.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Россия 24
+https://dvr-player.smotrim.ru/hls/russia_24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Россия 24
+https://dvr-player.smotrim.ru/live/smil:r24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Россия К
+https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
+#EXTINF:-1 group-title="Мультиспорт",Матч! HD
+http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
+http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 group-title="Спорт ⛸⚽🏋️‍🏆" tvg-logo="https://picon.ml/match-tv.png",Матч! HD
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",НТВ HD
+http://moobl.ru/hls/NTV_hd.m3u8
+#EXTINF:-1 group-title="Общие",НТВ
+http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие",НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️",НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Карусель
+http://moobl.ru/hls/Karusel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Карусель
+https://dvr-player.smotrim.ru/hls/karusel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Карусель Int
+http://moobl.ru/hls/Karusel_int.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Карусель International
+https://ucdn.beetv.kz/btv/live/hls/000000781.m3u8
+#EXTINF:-1 group-title="Мультсериалы",Карусель (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ОТР HD
+http://moobl.ru/hls/OTR_HD.m3u8
+#EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️" tvg-logo="https://static.g-cdn.app/streams/otp.png",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 group-title="Общие",ОТР (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ТВЦ
+https://edge02.odtv.az/o2/tvc/playlist.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="General",РЕН ТВ (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",РЕН ТВ HD
+http://moobl.ru/hls/Rentv_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",СТС
+http://moobl.ru/hls/STS.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Family",СТС (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:-1 group-title="Общие Orig🌐" tvg-logo="https://static.g-cdn.app/streams/CTC.png",СТС
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="↕️🔺Общие 👗🔺↕️",СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Домашний HD
+http://moobl.ru/hls/Domashniy_hd.m3u8
+#EXTINF:-1 group-title="↕️🔺Общие 👗🔺↕️",Домашний HD
+https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="Entertainment",Домашний (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTINF:-1 group-title="↕️🔺Общие 👗🔺↕️",ТВ3 HD
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ТВ3
+http://moobl.ru/hls/TV3.m3u8
+#EXTINF:-1 group-title="Общие",ТВ3 (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️" tvg-logo="https://static.g-cdn.app/streams/tv-3.png",ТВ3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные👁️☢🖥☯" tvg-logo="https://picon.ml/piatnica.png",Пятница! HD
+https://bl.uma.media/live/317843/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="↕️🔺Общие 👗🔺↕️",Пятница HD
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница! (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Звезда (1080p) [Not 24/7]
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️" tvg-logo="https://static.g-cdn.app/streams/zvezda.png",Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Звезда HD
+http://moobl.ru/hls/Zvezda_HD.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="News",Мир 24 (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir.ru" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="General",Мир (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/mir24/mir0.m3u8
+#EXTINF:-1 group-title="Новости",Мир 24
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 group-title="Общие",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Общие",Мир (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️" tvg-logo="https://static.g-cdn.app/streams/mir.png",Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Entertainment",ТНТ (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ТНТ HD
+http://moobl.ru/hls/TNT_hd.m3u8
+#EXTINF:-1 group-title="↕️🔺Общие 👗🔺↕️",ТНТ HD
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
