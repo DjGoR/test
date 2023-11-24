@@ -299,3 +299,41 @@ http://moobl.ru/hls/STS_love.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️" tvg-logo="https://static.g-cdn.app/streams/sts-love.png",СТС Love
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV XXI
+https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV XXI
+http://176.74.80.162:8099/TVXXI/index.m3u8
+#EXTINF:-1 group-title="Киномикс",Иллюзион+
+https://tbs01-edge11.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-logo="https://i.imgur.com/9GvuHQ5.png" group-title="Movies",Иллюзион+ (576p)
+https://tbs01-edge11.itdc.ge/illuzionplus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Иллюзион +
+http://moobl.ru/hls/Illyuzion_plus.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Русский Иллюзион
+http://moobl.ru/hls/Russky_illuzion.m3u8
+#EXTINF:-1 tvg-id="RusskiyIllusion.ru" tvg-logo="https://i.imgur.com/RlsqFN8.png" group-title="Movies",Русский Иллюзион (576p)
+https://tbs01-edge11.itdc.ge/rusilluzion/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Кинопремьера HD
+http://moobl.ru/hls/Kinopremyera_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",КИНОПРЕМЬЕРА HD
+http://45.159.74.13:80/Kinopremera/index.m3u8
+#EXTINF:-1 group-title="Кинозалы 📽🎞🎥",Кинопремьера HD
+http://178.124.179.122:8088/Kinopremiera/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Кинокомедия
+http://moobl.ru/hls/Kinokomediya.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Кинокомедия hd
+http://91.220.135.165:81/25/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Кинокомедия HD
+http://moobl.ru/hls/Kinokomediya_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Кинохит HD
+http://moobl.ru/hls/Kinohit_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Кинохит
+http://moobl.ru/hls/Kinohit.m3u8
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="Movies",Кинохит (576p)
+https://tbs01-edge11.itdc.ge/kinohit/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Киносемья
+http://moobl.ru/hls/Kinosemya.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Киносемья
+https://moobl.ru/hls/Kinosemya_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Киносемья HD
+http://moobl.ru/hls/Kinosemya_hd.m3u8
