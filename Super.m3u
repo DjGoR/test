@@ -34,7 +34,7 @@ http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Карусель
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" aspect-ratio="16:9",Карусель
 http://moobl.ru/hls/Karusel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Карусель
 https://dvr-player.smotrim.ru/hls/karusel/playlist.m3u8
