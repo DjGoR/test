@@ -34,7 +34,7 @@ http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️",НТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" aspect-ratio="16:9",Карусель
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Карусель
 http://moobl.ru/hls/Karusel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Карусель
 https://dvr-player.smotrim.ru/hls/karusel/playlist.m3u8
@@ -108,3 +108,194 @@ https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
 http://moobl.ru/hls/TNT_hd.m3u8
 #EXTINF:-1 group-title="↕️🔺Общие 👗🔺↕️",ТНТ HD
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+#EXTINF:-1 group-title="↕️🔺Общие 👗🔺↕️",МУЗ-ТВ
+https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Первый Музыкальный HD
+http://moobl.ru/hls/Onemuz_hd.m3u8
+#EXTINF:-1 tvg-id="FirstMusicChannelRussia.by" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="Music",Первый Музыкальный Канал Россия HD (1080p)
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Первый Музыкальный
+http://moobl.ru/hls/Onemuz.m3u8
+#EXTINF:-1 tvg-id="TKR.ru" tvg-logo="https://i.imgur.com/VqtPB7L.png" group-title="Undefined",ТКР (Рязань) (1080p) [Not 24/7]
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 group-title="↕️🔺CloudFreePlus💩ZabavaWink🔺↕️" tvg-logo="https://picon.ml/trk-ryazan.png",ТКР Рязань
+http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Че!
+http://moobl.ru/hls/Che.m3u8
+#EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️" tvg-logo="https://static.g-cdn.app/streams/4e.png",Че
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL 2🌍💩" tvg-logo="http://uiptv.do.am/img/logo/109.gif",Че
+http://uiptv.do.am/1ufc/109121273/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Известия HD
+http://moobl.ru/hls/Izvestia_hd.m3u8
+#EXTINF:-1 group-title="↕️🔺Общие 👗🔺↕️",Известия HD
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+#EXTINF:-1 tvg-id="Izvestia.ru" tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="News",Известия (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
+#EXTINF:-1 group-title="Новостные 📡👓👻",Russia today doc
+http://194.143.148.28:8080/RTD_HD/mpegts
+#EXTINF:-1 group-title="Новостные 📡👓👻",RT Документальный HD
+http://tv.streams.baikal-telecom.net/RTD_HD/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ю
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️" tvg-logo="https://picon.ml/yu.png",Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews по-русски [Not 24/7]
+https://ythls.armelin.one/channel/UCFzJjgVicCtFxJ5B0P_ei8A.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Euronews по-русски
+https://edge02.odtv.az/o1/euronews/playlist.m3u8
+#EXTINF:-1 group-title="Новостные 📡👓👻",Euronews Россия
+http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",РБК-ТВ
+http://moobl.ru/hls/RBK.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",РБК-ТВ HD
+http://moobl.ru/hls/RBK_hd.m3u8
+#EXTINF:-1 group-title="Общие Orig🌐" tvg-logo="https://picon.ml/rbk.png",РБК-ТВ HD
+https://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 tvg-id="360.ru" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="General",360° (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/dash/360hd/playlist.mpd
+#EXTINF:-1 group-title="Новостные 📡👓👻",360 HD
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1 group-title="Новостные 📡👓👻" tvg-logo="https://picon.ml/360-podmoskovie.png",360° HD
+https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1 group-title="Музыка 🔊🎶🎧🎸" tvg-logo="http://epg.it999.ru/img/6295.png",360 TV
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",360° Новости
+http://moobl.ru/hls/360_news.m3u8
+#EXTINF:-1 tvg-id="360News.ru" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="News",360° Новости (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",360° Новости HD
+http://moobl.ru/hls/360_news_hd.m3u8
+#EXTINF:-1 group-title="Новостные 📡👓👻",360 Новости
+https://strm.yandex.ru/kal/360news/360news0.m3u8
+#EXTINF:-1 group-title="Развлекательные",Суббота! HD
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Суббота! (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 group-title="Развлекательные👁️☢🖥☯" tvg-logo="http://i115.fastpic.org/big/2021/1003/b8/31739ce2ae4c4afd00a50b1845870eb8.png",Суббота! HD
+https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные👁️☢🖥☯" tvg-logo="https://picon.ml/subbota.png",Суббота!
+https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8#EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️" tvg-logo="https://static.g-cdn.app/streams/super.png",Суббота
+#EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️" tvg-logo="https://static.g-cdn.app/streams/super.png",Суббота
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 group-title="Политические",Дума ТВ
+https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Дума HD
+http://moobl.ru/hls/Duma_tv_hd.m3u8
+#EXTINF:-1 group-title="Новостные 📡👓👻" tvg-logo="https://picon.ml/dumatv.png",Дума
+https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Победа HD
+http://moobl.ru/hls/Pobeda_hd.m3u8
+#EXTINF:-1 group-title="Кинозалы 📽🎞🎥",Победа HD
+http://31.148.48.15:80/BBC_World_News/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Мосфильм. Золотая коллекция HD
+http://moobl.ru/hls/Mosfilm_hd.m3u8
+#EXTINF:-1 group-title="INTERNACIONAL 2🌍💩",Мосфильм. Золотая коллекция HD
+http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzODA0MDkwMjMxNjA2NyIsImV4cCI6MTY3MDIyOTk4MiwiaHdpZCI6IjQ0ZDgyYTNhZGExNmFhNjU2OTljODFjNzEyMGM3MjZmNDIwOWUxNzJlYjBiY2VhMTQ0ZGI5ZWVkZDQyZGRhMWIiLCJsYXN0X3JlcV9kYXRlIjoxNjU2NzEwMzQyLCJzZXNzaW9uX2lkIjoiMTc4MzEzNGM4MWNmNjYwMDg3MGI4Mzg1ZjM3MmFkOTYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.LpKLmeUzoCdrzSLUBkzARAYrfdo9EOco8uU8NwO15lA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Мосфильм. Золотая коллекция
+http://europe3.livetv.az/russia/mosfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="Movies",TV1000 Action Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju TV1000 Action HD
+http://moobl.ru/hls/Viju_TV1000_Action_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV 1000 Action (720p)
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV 1000 (720p)
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju TV1000 HD
+http://moobl.ru/hls/Viju_TV1000_HD.m3u8
+#EXTINF:-1 group-title="Кинозалы 📽🎞🎥" tvg-logo="https://static.g-cdn.app/streams/tv1000-hd.png",Viju TV1000 HD
+http://bl.uma.media/live/485542/HLS/2703360_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы 📽🎞🎥" tvg-logo="https://picon.ml/tv1000.png",TV1000
+https://bl.uma.media/live/485542/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="↕️🔺Кино 📽🔺↕️",TV 1000
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1 group-title="↕️🔺Кино 📽🔺↕️",TV 1000 Русское Кино
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju TV1000 Русское HD
+http://moobl.ru/hls/Viju_TV1000_russkoe_kino_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV 1000 Русское кино (720p)
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju History HD
+http://moobl.ru/hls/Viju_History_hd.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="Documentary",Viju History Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju History (720p)
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="↕️🔺Общие 👗🔺↕️",Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:-1 group-title="Познавательные 🌍🚂🏘🦎" tvg-logo="https://picon.ml/viasat-history.png",Viasat History HD
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="↕️🔺Общие 👗🔺↕️",Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:-1 group-title="Познавательные 🌍🚂🏘🦎" tvg-logo="https://picon.ml/viasat-explore.png",Viasat Explore
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="Documentary",Viju Explore Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju Comedy (720p)
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju+ Comedy HD
+http://moobl.ru/hls/Viju_plus_Comedy_hd.m3u8
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="Comedy",ViP Comedy Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="Movies",VIP Megahit Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="Movies",VIP Megahit Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju Megahit (720p)
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju+ Megahit HD
+http://moobl.ru/hls/Viju_plus_Megahit_hd.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="Movies",VIP Megahit Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 group-title="↕️🔺Общие 👗🔺↕️",Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="Documentary",Viju Nature Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju Nature HD
+http://moobl.ru/hls/Viju_Nature_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju Nature (720p)
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPlanet.ru" tvg-logo="https://i.imgur.com/9Weqdsk.png" group-title="Documentary",Viju Planet Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju+ Planet HD
+http://moobl.ru/hls/Viju_plus_Planet_hd.m3u8
+#EXTINF:-1 group-title="↕️🔺Кино 📽🔺↕️",Viju+ Planet HD
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju+ Planet
+http://moobl.ru/hls/Viju_plus_Planet.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju+ Premiere HD
+http://moobl.ru/hls/Viju_plus_Premiere_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju Premiere (720p)
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кинозалы 📽🎞🎥" tvg-logo="https://picon.ml/vip-premiere.png",VIP Premiere
+https://bl.uma.media/live/485536/HLS/4614144_2/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="Movies",VIP Premiere Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju+ Serial HD
+http://moobl.ru/hls/Viju_plus_Serial_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju Serial (720p)
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Series",VIP Serial Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju+ Serial
+http://94.229.250.73:8008/play/a003
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju+ Serial HD
+http://moobl.ru/hls/Viju_plus_Serial_hd.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Series",VIP Serial Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju Serial (720p)
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Viju Sport (720p)
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="Sports",Viju Sport Russia (1080p) [Geo-blocked]
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD.m3u8
+#EXTINF:-1 group-title="↕️🔺Общие 👗🔺↕️",Da Vinci
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",СТС Love
+http://31.148.48.15:80/STS_Love/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",СТС Love
+http://moobl.ru/hls/STS_love.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС Love (Архив)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="↕️🔺Эфирные 🐈🔺↕️" tvg-logo="https://static.g-cdn.app/streams/sts-love.png",СТС Love
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
