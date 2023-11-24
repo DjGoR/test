@@ -23,6 +23,7 @@ https://dvr-player.smotrim.ru/live/smil:r24.smil/playlist.m3u8
 https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
 #EXTINF:-1 group-title="Мультиспорт",Матч! HD
 http://bl.uma.media/live/126836/HLS/317849_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Мультиспорт",Матч! HD
 http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:-1 group-title="Спорт ⛸⚽🏋️‍🏆" tvg-logo="https://picon.ml/match-tv.png",Матч! HD
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
