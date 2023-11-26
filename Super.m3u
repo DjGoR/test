@@ -351,8 +351,6 @@ http://89.104.114.32:8080/kinomix/mono.m3u8?token=AQ6rhANUPc
 #EXTINF:-1 group-title="↕️ Cinema | Кинозалы ↕️" tvg-logo="http://epg.cdntv.online/img/122.png" tvg-id="644",Киномикс
 http://158.101.214.187:8080/channel/n6ccd377e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Киномикс
-http://moobl.ru/hls/Kinomix.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Киномикс
 https://moobl.ru/hls/Kinomix.m3u8
 #EXTINF:-1 tvg-id="Kinomix.ru" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="Movies",Киномикс (576p)
 https://tbs01-edge11.itdc.ge/kinomiks/index.m3u8
