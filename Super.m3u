@@ -348,6 +348,8 @@ http://mhd140.iptv2022.com/p/Qpu4yfXofrLftRcg-JVfKg,1701108070/streaming/film-wa
 http://mhd109.iptv2022.com/p/X4wJw8mTJbu_WZDGiwI6zQ,1701032404/streaming/kinomix/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
 #EXTINF:-1 group-title="Кинозалы 📽🎞🎥" tvg-logo="http://epg.it999.ru/img/644.png" tvg-id="644",Киномикс
 http://89.104.114.32:8080/kinomix/mono.m3u8?token=AQ6rhANUPc
+#EXTINF:-1 group-title="↕️ Cinema | Кинозалы ↕️" tvg-logo="http://epg.cdntv.online/img/122.png" tvg-id="644",Киномикс
+http://158.101.214.187:8080/channel/n6ccd377e/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
 
 
 
