@@ -338,3 +338,26 @@ http://moobl.ru/hls/Kinosemya.m3u8
 https://moobl.ru/hls/Kinosemya_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Киносемья HD
 http://moobl.ru/hls/Kinosemya_hd.m3u8
+#EXTINF:-1 group-title="↕️ Cinema | Кинозалы ↕️" tvg-id="462",КИНОСВИДАНИЕ
+https://pl01.spr24.net/271/mpegts?token=ZvkhWwnV8tNK7f
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Киносвидание
+http://moobl.ru/hls/Kinosvidanie.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Киносвидание
+http://mhd140.iptv2022.com/p/Qpu4yfXofrLftRcg-JVfKg,1701108070/streaming/film-watching/324/1/tracks-v4a1/mono.m3u8?filter.tracks=v1v2v3v4a1t1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
