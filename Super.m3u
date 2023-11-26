@@ -320,6 +320,8 @@ http://moobl.ru/hls/Kinopremyera_hd.m3u8
 http://45.159.74.13:80/Kinopremera/index.m3u8
 #EXTINF:-1 group-title="Кинозалы 📽🎞🎥",Кинопремьера HD
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
+#EXTINF:-1 group-title="↕️ Cinema | Кинозалы ↕️" tvg-id="821",КИНОКОМЕДИЯ
+https://pl01.spr24.net/281/mpegts?token=ZvkhWwnV8tNK7f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Кинокомедия
 http://moobl.ru/hls/Kinokomediya.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Кинокомедия hd
