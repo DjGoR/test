@@ -338,3 +338,6 @@ http://moobl.ru/hls/Kinosemya.m3u8
 https://moobl.ru/hls/Kinosemya_hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Киносемья HD
 http://moobl.ru/hls/Kinosemya_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TEST
+
+http://127.0.0.1:6878/playlist/R2q7LuO.m3u
